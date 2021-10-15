@@ -47,7 +47,7 @@ function App() {
           style={{ color: "white", textAlign: "center" }}
         >
           <Typography.Title>
-            Cryptoverse <br />
+            Cryptoverse Inc.<br />
             All right reserved
           </Typography.Title>
           <Space>
